@@ -20,7 +20,7 @@ BIC: BCITITMM
 - [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
 
 ## Progetto
-Grazie ai dati aperti forniti dalla Protezione Civile ho potuto realizzare i seguenti grafici con Google Data Studio
+Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utilizzando Google Data Studio
 
 ### Prima pagina
 - Dati del giorno
