@@ -1,9 +1,20 @@
 # COVID-19 SICILIA
 
+
+
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/maximilianventura/COVID-19)](https://github.com/maximilianventura/COVID-19/commits/master)
 
 Dati: [Protezione civile](https://github.com/pcm-dpc/COVID-19)
+Siti istituzionali: [Ministero della Salute](http://www.salute.gov.it/nuovocoronavirus)
+
+### Donazioni
+
+Banca Intesa Sanpaolo Spa
+Filiale di Via del Corso, 226 - Roma
+intestato a Pres. Cons. Min. Dip. Prot. Civ.
+IBAN IT84Z0306905020100000066387
+BIC: BCITITMM 
 
 ## Scarica PDF
 - [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
