@@ -14,7 +14,7 @@ Banca Intesa Sanpaolo Spa<br>
 Filiale di Via del Corso, 226 - Roma<br>
 intestato a Pres. Cons. Min. Dip. Prot. Civ.<br>
 IBAN IT84Z0306905020100000066387<br>
-BIC: BCITITMM 
+BIC: BCITITMM  
 
 ## Scarica PDF
 - [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
