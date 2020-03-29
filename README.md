@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/maximilianventura/COVID-19)](https://github.com/maximilianventura/COVID-19/commits/master)
 
-Dati: [Protezione civile](https://github.com/pcm-dpc/COVID-19)
+Dati: [Protezione civile](https://github.com/pcm-dpc/COVID-19)<br>
 Siti istituzionali: [Ministero della Salute](http://www.salute.gov.it/nuovocoronavirus)
 
 ### Donazioni
@@ -19,17 +19,17 @@ BIC: BCITITMM
 ## Scarica PDF
 - [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
 
-## Prima pagina
+### Prima pagina
 - Dati del giorno
 - Grafico con date
 
-## Seconda pagina (trend)
+### Seconda pagina (trend)
 - Ricoverati con sintomi
 - Terapia intensiva
 - Totale ospedalizzati
 - Isolamento domiciliare
 
-## Terza pagina (trend)
+### Terza pagina (trend)
 - Totale attualmente positivi + Totale casi
 - Nuovi attualmente positivi
 - Dimessi guariti
