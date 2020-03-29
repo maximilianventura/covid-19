@@ -2,6 +2,9 @@
 
 Dati: [Protezione civile](https://github.com/pcm-dpc/COVID-19)
 
+## Scarica PDF
+- [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
+
 ## Prima pagina
 - Dati del giorno
 - Grafico con date
