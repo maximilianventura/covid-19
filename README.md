@@ -8,7 +8,7 @@
 Dati: [Protezione civile](https://github.com/pcm-dpc/COVID-19)<br>
 Siti istituzionali: [Ministero della Salute](http://www.salute.gov.it/nuovocoronavirus)
 
-### Donazioni
+### Fai una donazione alla Protezione Civile 
 
 Banca Intesa Sanpaolo Spa<br>
 Filiale di Via del Corso, 226 - Roma<br>
