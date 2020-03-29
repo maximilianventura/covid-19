@@ -1,4 +1,4 @@
-<img src="https://github.com/maximilianventura/covid-19/blob/master/sicilia.jpg" alt="COVID-19 Sicilia" data-canonical-src="https://github.com/maximilianventura/covid-19/blob/master/sicilia.jpg" width="400" />
+![Sicilia](https://github.com/maximilianventura/covid-19/blob/master/sicilia-covid-19.jpg)
 
 # COVID-19 Sicilia
 
