@@ -1,4 +1,4 @@
-![Sicilia](https://github.com/maximilianventura/covid-19/blob/master/sicilia-covid-19.jpg)
+![](https://github.com/maximilianventura/covid-19/blob/master/sicilia-covid-19.jpg)
 
 # COVID-19 Sicilia
 
