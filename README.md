@@ -10,10 +10,10 @@ Siti istituzionali: [Ministero della Salute](http://www.salute.gov.it/nuovocoron
 
 ### Donazioni
 
-Banca Intesa Sanpaolo Spa
-Filiale di Via del Corso, 226 - Roma
-intestato a Pres. Cons. Min. Dip. Prot. Civ.
-IBAN IT84Z0306905020100000066387
+Banca Intesa Sanpaolo Spa<br>
+Filiale di Via del Corso, 226 - Roma<br>
+intestato a Pres. Cons. Min. Dip. Prot. Civ.<br>
+IBAN IT84Z0306905020100000066387<br>
 BIC: BCITITMM 
 
 ## Scarica PDF
