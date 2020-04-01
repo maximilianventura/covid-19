@@ -31,8 +31,8 @@ Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utiliz
 - Isolamento domiciliare
 
 ### Terza pagina (trend)
-- Totale attualmente positivi + Totale casi
-- Nuovi attualmente positivi
+- Totale positivi + Totale casi
+- Nuovi positivi
 - Dimessi guariti
 - Deceduti
 
