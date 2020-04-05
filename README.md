@@ -14,22 +14,7 @@ Filiale di Via del Corso, 226 - Roma<br>
 intestato a Pres. Cons. Min. Dip. Prot. Civ.<br>
 IBAN IT84Z0306905020100000066387<br>
 BIC: BCITITMM
-
-### Indice 
-
-- [Scarica PDF](#scarica-pdf)
-- [Progetto](#progetto)
-- [Dati regione](#dati-regione)
-  - [Pagina 1](#pagina-1)
-  - [Pagina 2](#pagina-2-(trend))
-  - [Pagina 3](#pagina-3-(trend))
-- [Dati per provincia](#dati-per-provincia)
-  - [Pagina 4](#pagina-4)
-  - [Pagina 5](#pagina-5-(trend))
-  - [Pagina 6](#pagina-6-(trend))
-  - [Pagina 7](#pagina-7-(trend))
-  - [Pagina 8](#pagina-8-(trend))
-  
+ 
 ## Scarica PDF
 - [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
 - [29/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_29_COVID-19-SICILIA.pdf)
