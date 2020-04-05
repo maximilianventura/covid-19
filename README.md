@@ -28,23 +28,43 @@ BIC: BCITITMM
 ## Progetto
 Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utilizzando Google Data Studio
 
-### Prima pagina
+## Dati regione
+
+### Pagina 1
 - Dati del giorno
 - Grafico con date
 
-### Seconda pagina (trend)
+### Pagina 2 (trend)
 - Ricoverati con sintomi
 - Terapia intensiva
 - Totale ospedalizzati
 - Isolamento domiciliare
 
-### Terza pagina (trend)
+### Pagina 3 (trend)
 - Totale positivi + Totale casi
 - Nuovi positivi
 - Dimessi guariti
 - Deceduti
 
-### Quarta pagina
+## Dati per provincia
+
+### Pagina 4
 - Mappa con i casi totali per provincia
+
+### Pagina 5 (trend)
+- Totale ospedalizzati
+- Isolamento domiciliare
+
+### Pagina 6 (trend)
+- Totale positivi
+- Variazione totale positivi
+
+### Pagina 7 (trend)
+- Nuovi positivi
+- Dimessi guariti
+
+### Pagina 8 (trend)
+- Deceduti
+- Totale casi
 
 <iframe width="1000" height="750" src="https://datastudio.google.com/embed/reporting/f2733b82-147a-482b-86ab-00eea5ad5629/page/lyDKB" frameborder="0" style="border:0" allowfullscreen></iframe> 
