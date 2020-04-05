@@ -20,7 +20,7 @@ BIC: BCITITMM
 - [Progetto](#progetto)
 - [Dati regione](#dati-regione)
   - [Pagina 1](#pagina-1)
-  - [Pagina 2](#pagina-2-trend)
+  - [Pagina 2](#pagina-2-(trend))
   - [Pagina 3](#pagina-3)
 - [Dati per provincia](#dati-per-provincia)
   - [Pagina 4](#pagina-4)
