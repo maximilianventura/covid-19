@@ -14,16 +14,21 @@ intestato a Pres. Cons. Min. Dip. Prot. Civ.<br>
 IBAN IT84Z0306905020100000066387<br>
 BIC: BCITITMM
 
+### Indice 
+
 - [Scarica PDF](#scarica-pdf)
-  - [Scopo](#scopo)
-  - [Dati](#dati)
-    - [Se usi questi dati](#se-usi-questi-dati)
-  - [Schema dati](#schema-dati)
-  - [Controlli effettuati sui dati](#controlli-effettuati-sui-dati)
-  - [Lettera aperta](#lettera-aperta)
-  - [Ringraziamenti](#ringraziamenti)
-
-
+- [Progetto](#progetto)
+- [Dati regione](#dati-regione)
+  - [Pagina 1](#pagina-1)
+  - [Pagina 2](#pagina-2)
+  - [Pagina 3](#pagina-3)
+- [Dati per provincia](#dati-per-provincia)
+  - [Pagina 4](#pagina-4)
+  - [Pagina 5](#pagina-5)
+  - [Pagina 6](#pagina-6)
+  - [Pagina 7](#pagina-7)
+  - [Pagina 8](#pagina-8)
+  
 ## Scarica PDF
 - [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
 - [29/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_29_COVID-19-SICILIA.pdf)
