@@ -21,13 +21,13 @@ BIC: BCITITMM
 - [Dati regione](#dati-regione)
   - [Pagina 1](#pagina-1)
   - [Pagina 2](#pagina-2-(trend))
-  - [Pagina 3](#pagina-3)
+  - [Pagina 3](#pagina-3-(trend))
 - [Dati per provincia](#dati-per-provincia)
   - [Pagina 4](#pagina-4)
-  - [Pagina 5](#pagina-5)
-  - [Pagina 6](#pagina-6)
-  - [Pagina 7](#pagina-7)
-  - [Pagina 8](#pagina-8)
+  - [Pagina 5](#pagina-5-(trend))
+  - [Pagina 6](#pagina-6-(trend))
+  - [Pagina 7](#pagina-7-(trend))
+  - [Pagina 8](#pagina-8-(trend))
   
 ## Scarica PDF
 - [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
