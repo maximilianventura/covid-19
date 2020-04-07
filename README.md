@@ -16,15 +16,6 @@ IBAN IT84Z0306905020100000066387<br>
 BIC: BCITITMM
  
 ## Scarica PDF
-- [28/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_28_COVID-19-SICILIA.pdf)
-- [29/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_29_COVID-19-SICILIA.pdf)
-- [30/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_30_COVID-19-SICILIA.pdf)
-- [31/03/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_03_31_COVID-19-SICILIA.pdf)
-- [01/04/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_04_01_COVID-19-SICILIA.pdf)
-- [02/04/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_04_02_COVID-19-SICILIA.pdf)
-- [03/04/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_04_03_COVID-19-SICILIA.pdf)
-- [04/04/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_04_04_COVID-19-SICILIA.pdf)
-- [05/04/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_04_05_COVID-19-SICILIA.pdf)
 - [06/04/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_04_06_COVID-19-SICILIA.pdf)
 
 ## Progetto
