@@ -50,14 +50,13 @@ Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utiliz
 
 ### Pagina 6 (trend)
 - Totale positivi
-- Variazione totale positivi
+- Nuovi positivi
 
 ### Pagina 7 (trend)
-- Nuovi positivi
 - Dimessi guariti
+- Deceduti
 
 ### Pagina 8 (trend)
-- Deceduti
 - Totale casi
 
 <iframe width="1000" height="750" src="https://datastudio.google.com/embed/reporting/f2733b82-147a-482b-86ab-00eea5ad5629/page/lyDKB" frameborder="0" style="border:0" allowfullscreen></iframe> 
