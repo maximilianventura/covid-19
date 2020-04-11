@@ -4,7 +4,6 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/maximilianventura/COVID-19)](https://github.com/maximilianventura/COVID-19/commits/master)
 
 Dati: [Protezione civile](https://github.com/pcm-dpc/COVID-19)<br>
-Dati: [Open Data Sicilia](https://github.com/opendatasicilia/COVID-19_Sicilia)<br>
 Siti istituzionali: [Ministero della Salute](http://www.salute.gov.it/nuovocoronavirus)
 
 ### Fai una donazione alla Protezione Civile 
