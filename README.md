@@ -15,7 +15,7 @@ IBAN IT84Z0306905020100000066387<br>
 BIC: BCITITMM
  
 ## Scarica PDF
-- [03/05/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_05_03_COVID-19-SICILIA.pdf)
+- [04/05/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_05_04_COVID-19-SICILIA.pdf)
 
 ## Progetto
 Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utilizzando Google Data Studio
