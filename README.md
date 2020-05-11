@@ -21,7 +21,7 @@ BIC: BCITITMM
 Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utilizzando Google Data Studio
 
 ### Pagina 1
-- Dati del giorno
+- Dati del giorno (confronto con il giorno precedente)
 - Grafico con date
 
 ### Pagina 2 (trend)
@@ -31,10 +31,10 @@ Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utiliz
 - Isolamento domiciliare
 
 ### Pagina 3 (trend)
-- Totale positivi + Totale casi
+- Totale positivi
 - Nuovi positivi
 - Dimessi guariti
-- Deceduti
+- Deceduti trend
 
 ### Pagina 4
 - Mappa con i casi totali per provincia
