@@ -15,7 +15,7 @@ IBAN IT84Z0306905020100000066387<br>
 BIC: BCITITMM
  
 ## Scarica PDF
-- [11/05/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_05_11_COVID-19-SICILIA.pdf)
+- [12/05/2020](https://github.com/maximilianventura/covid-19/blob/master/2020_05_12_COVID-19-SICILIA.pdf)
 
 ## Progetto
 Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utilizzando Google Data Studio
@@ -35,8 +35,5 @@ Elaborazione di grafici con i dati aperti forniti dalla Protezione Civile utiliz
 - Nuovi positivi
 - Dimessi guariti
 - Deceduti trend
-
-### Pagina 4
-- Mappa con i casi totali per provincia
 
 <iframe width="1000" height="750" src="https://datastudio.google.com/embed/reporting/f2733b82-147a-482b-86ab-00eea5ad5629/page/lyDKB" frameborder="0" style="border:0" allowfullscreen></iframe> 
